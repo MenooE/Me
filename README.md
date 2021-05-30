@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Menouwu
+- 👀 I'm interested in video game development.  
+- 🌱 I’m currently learning Godot engine 
